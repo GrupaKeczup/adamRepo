@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bigger number game</string>
+    <string name="number_guessing_game">Number guessing game!</string>
+    <string name="press_the_button_with_larger_number">Press the button with larger number</string>
+    <string name="downloadButtonText">download</string>
+</resources>
